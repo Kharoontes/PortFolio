@@ -11,7 +11,7 @@
   }
   
   .header {
-    background-color: #0769e9;
+    background-color: #101217;
     height: 80px;
     position: fixed;
     width: 100%;
@@ -55,17 +55,19 @@
   
   .nav-menu-link {
     padding: 8px 12px;
-    border-radius: 3px;
+    border-radius: 16px;
   }
   
   .nav-menu-link:hover,
   .nav-menu-link_active {
-    background-color: #034574;
+    background-color: #0c0d0d;
+    color: white;
+    font-weight: bold;
     transition: 0.5s;
   }
   
   /* TOGGLE */
-  
+
   .nav-toggle {
     color: white;
     background: none;
