@@ -1,3 +1,5 @@
+/* Desktop */
+
 * {
     margin: 0;
     box-sizing: border-box;
@@ -63,6 +65,7 @@
   }
   
   /* TOGGLE */
+  
   .nav-toggle {
     color: white;
     background: none;
@@ -76,6 +79,7 @@
   }
   
   /* MOBILE */
+
   @media (max-width: 768px) {
     body {
       padding-top: 70px;
