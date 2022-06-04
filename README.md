@@ -1,11 +1,10 @@
 
-### Kharoontes Portfolio Hosting [GitHub Pages](https://pages.github.com/).
+## Kharoontes Portfolio Hosting [GitHub Pages](https://pages.github.com/).
  
- [Kharoontes Portfolio](https://kharoontes.github.io/PortFolio/). ## Link 
+### [Kharoontes Portfolio](https://kharoontes.github.io/PortFolio/). 
 
 
 A super simple responsive portfolio . 
-
 
 <!-- Credits: -->
 
