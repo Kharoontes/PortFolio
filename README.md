@@ -1,6 +1,5 @@
 
-### Kharoontes Portfolio 
- ###### Hosting [GitHub Pages](https://pages.github.com/).
+### Kharoontes Portfolio Hosting [GitHub Pages](https://pages.github.com/).
  
  [WebPage](https://kharoontes.github.io/PortFolio/).
 
@@ -11,15 +10,15 @@ A super simple responsive portfolio .
 
 Credits:
 
-    *Template
+    -Template
 	   >Html5UP (https://html5up.net/)
 
-	*Demo Images:
+	-Demo Images:
 		>Unsplash (unsplash.com)
 
-	*Icons:
+	-Icons:
 		>Font Awesome (fontawesome.io)
 
-	*Other:
+	-Other:
 		>jQuery (jquery.com)
 		>Responsive Tools (github.com/ajlkn/responsive-tools)
