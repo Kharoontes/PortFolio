@@ -6,7 +6,7 @@
 
 A super simple responsive portfolio . 
 
-<!-- Credits: -->
+<!-- ------------------------------ Credits: ------------------------------- -->
 
 - Template : 
 >[Html5UP](https://html5up.net/)
