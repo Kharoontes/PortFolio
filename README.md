@@ -18,5 +18,5 @@ A super simple responsive portfolio .
 >[Font Awesome](fontawesome.io)
 
 - Other:
->[jQuery](jquery.com)
+>[jQuery](https://jquery.com/)
 >[Responsive Tools](github.com/ajlkn/responsive-tools)
