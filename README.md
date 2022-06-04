@@ -4,7 +4,7 @@
 ### [Kharoontes Portfolio](https://kharoontes.github.io/PortFolio/). 
 
 
-A super simple responsive portfolio . 
+A super simple responsive portfolio. 
 
 <!-- ------------------------------ Credits: ------------------------------- -->
 
