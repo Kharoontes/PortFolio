@@ -9,18 +9,16 @@ A super simple responsive portfolio .
 
 <!-- Credits: -->
 
--Template : > Html5UP https://html5up.net/
+-Template : 
+>Html5UP https://html5up.net/
 
 
-    -Template
-	   >Html5UP https://html5up.net/
+-Demo Images:
+>Unsplash unsplash.com
 
-	-Demo Images:
-		>Unsplash unsplash.com
+-Icons:
+>Font Awesome fontawesome.io
 
-	-Icons:
-		>Font Awesome fontawesome.io
-
-	-Other:
-		>jQuery jquery.com)
-		>Responsive Tools (github.com/ajlkn/responsive-tools
+-Other:
+>jQuery jquery.com)
+>Responsive Tools (github.com/ajlkn/responsive-tools
