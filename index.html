@@ -5,18 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Navbar</title>
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="CSS/main.css" />
     <script
       src="https://kit.fontawesome.com/7e5b2d153f.js"
       crossorigin="anonymous"
     ></script>
+    <link rel="stylesheet" href="CSS/dark-mode.css">
     <script defer src="JS/main.js"></script>
   </head>
   <body>
     <header class="header">
-      <nav class="nav">
-        <a href="#" class="logo nav-link">KHAROONTES</a>
+      <nav class="nav" >
+        <a class="logo nav-link">KHAROONTES</a>
         <button class="nav-toggle" aria-label="Abrir menú">
           <i class="fas fa-bars"></i>
         </button>
@@ -35,6 +36,11 @@
               >Contact</a
             >
           </li>
+          <li class="nav-menu-item"><a class="form-check form-switch" href=""><input type="checkbox" class="form-check-input" id="darkSwitch"></a>
+          
+          <script src="JS/dark-mode-switch.min.js"></script>
+
+        </div></li>
         </ul>
       </nav>
     </header>
