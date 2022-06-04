@@ -1,7 +1,7 @@
 
 ### Kharoontes Portfolio Hosting [GitHub Pages](https://pages.github.com/).
  
- [WebPage](https://kharoontes.github.io/PortFolio/).
+ [Kharoontes Portfolio](https://kharoontes.github.io/PortFolio/).
 
 
 A super simple responsive portfolio . 
