@@ -2,10 +2,10 @@
 
 body::-webkit-scrollbar {
 	width: 15px;
-	background-color: #111459;
+	background-color: #ffffff;
 }
 
 body::-webkit-scrollbar-thumb {
-	background: #000dff;
+	background: #3c3c3c;
 	border-radius: 15px;
 }
