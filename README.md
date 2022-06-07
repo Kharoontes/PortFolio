@@ -8,8 +8,8 @@ A super simple responsive portfolio.
  
 <!-- ------------------------------ Credits: ------------------------------- -->
 
-- Template : 
-  - [Html5UP](https://html5up.net/)
+- Frameworks : 
+  - [Bootstrap](https://getbootstrap.com/)
 
 - Demo Images:
   - [Unsplash](unsplash.com) 
