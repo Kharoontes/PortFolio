@@ -3,9 +3,11 @@
 body::-webkit-scrollbar {
 	width: 15px;
 	background-color: #ffffff;
+	scroll-behavior: smooth;
 }
 
 body::-webkit-scrollbar-thumb {
 	background: #3c3c3c;
 	border-radius: 15px;
+	scroll-behavior: smooth;
 }
